@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+img{
+				width: 180px;
+				height: 160px;
+			}
+			div a{
+				font-size: 9px;
+				color: red;
+				text-decoration: none;
+			}
+			div .price{
+				font-size: 13px;
+				color: red;
+			}
+			.list{
+				text-align: center;
+			}
+			.goods{
+				border: 1px red solid;
+				width: 180px;
+				height: 230px;
+				margin: 20px 10px;
+				float: left;
+			}
+			.goods:HOVER{
+				cursor: pointer;
+			}
